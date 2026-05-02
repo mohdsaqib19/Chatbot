@@ -1,3 +1,2 @@
 # Chatbot
-Chatbot using Django
-Soon we will update this repo
+Chatbot using Django and Gen Ai
